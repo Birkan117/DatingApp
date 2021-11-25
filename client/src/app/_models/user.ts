@@ -4,3 +4,4 @@ export interface User{
 }
 //Interface in typescript is different from C#.
 //we use it to specify something is a type of something
+
